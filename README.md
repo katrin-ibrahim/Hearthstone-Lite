@@ -37,9 +37,9 @@ These are the 4 types of available heroes and their powers:
 
 
 ## Authors
-[@katrin-ibrahim](https://github.com/katrin-ibrahim)
-[@MaryseFahim](https://github.com/MaryseFahim)
-[mariamaged24](https://github.com/mariamaged24)
+- [@katrin-ibrahim](https://github.com/katrin-ibrahim)
+- [@MaryseFahim](https://github.com/MaryseFahim)
+- [mariamaged24](https://github.com/mariamaged24)
 
 ## Feedback
 If you have any feedback, please reach out to me at katrinemadfathy@gmail.com
