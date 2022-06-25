@@ -45,5 +45,5 @@ These are the 4 types of available heroes and their powers:
 If you have any feedback, please reach out to me at katrinemadfathy@gmail.com
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+[GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
